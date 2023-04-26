@@ -1,5 +1,9 @@
 # Java-coding-game
 
+Preview GIF
+
+![Untitled_ Apr 25, 2023 9_45 PM](https://user-images.githubusercontent.com/116523970/234444985-c474bd5f-03de-41d9-963e-104717a8d2b7.gif)
+
 
 User Story
 
